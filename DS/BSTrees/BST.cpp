@@ -50,6 +50,10 @@ bool BST :: insert(ll key) {
     // finding either a pointer to the node it self if it was inserted before or 
     // the position we're going to insert it in if it is the first time inserting this node
     Node * m = find(root_, key);
+    if(!m) {
+        root_ = new Node(key, 1, nullptr);
+        return true;
+    }
     ll mkey = m -> getKey();
     if (mkey != key)
     {
