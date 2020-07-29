@@ -7,3 +7,6 @@
 ✔ [Unbalanced Binary Search trees](https://github.com/Moodrammer/Learning-DataStructures-Algorithms/blob/master/DS/BSTrees/BST.cpp)
 
 ✔ [AVL Trees (A balanced Binary search tree)](https://github.com/Moodrammer/Learning-DataStructures-Algorithms/blob/master/DS/BSTrees/AVLTree.cpp)
+
+# Algorithms
+✔ [DP: Edit distance](https://github.com/Moodrammer/Learning-DataStructures-Algorithms/blob/master/Algorithms/DP/EditDistance.cpp)
