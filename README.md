@@ -14,3 +14,5 @@
 ✔ [Graph Theory: dfs & connected components](https://github.com/Moodrammer/Learning-DataStructures-Algorithms/blob/master/Algorithms/Graph%20Theory/dfs.cpp)
 
 ✔ [Graph Theory: Bfs(Shortest Path in unweighted graph) Dungeon game](https://github.com/Moodrammer/Learning-DataStructures-Algorithms/blob/master/Algorithms/Graph%20Theory/DungeonGame.cpp)
+
+✔ [Graph Theory: Dijkestra Shortest Path algorithm](https://github.com/Moodrammer/Learning-DataStructures-Algorithms/blob/master/Algorithms/Graph%20Theory/Dijkestra.cpp)
